@@ -1,4 +1,4 @@
-import 'bin/Person.dart';
+import 'Person.dart';
 
 class Boisson {
   String name;

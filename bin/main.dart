@@ -1,4 +1,4 @@
-import '../Barman.dart';
+import 'Barman.dart';
 import 'Person.dart';
 
 // faire une boucle de 0 a 100 et imprimer que les nombres impairs
